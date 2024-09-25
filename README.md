@@ -6,7 +6,7 @@ This Personal Portfolio displays my projects highlighting the different analytic
 Feel free to reach out to me if you have any comments, questions, or tips regarding me or any of my projects!
 
 
-## Tools
+## Technical Skills
 Python | Power BI | Excel | Oracle SQL 
 
 
