@@ -3,6 +3,7 @@ description: University of Iowa, Tippie College of Business | M.S, Business Anal
 logo: /images/headshot
 
 theme: jekyll-theme-minimal
+       .inner {max-width: 75%;}
 
 
 #social-network-links:
