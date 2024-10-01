@@ -16,8 +16,7 @@ description: >
 logo: /images/headshot
 
 theme: jekyll-theme-minimal
-
-
+classes: wide
 
 #social-network-links:
  # email: evan-haines@uiowa.edu
