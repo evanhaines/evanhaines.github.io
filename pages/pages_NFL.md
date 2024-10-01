@@ -1,3 +1,8 @@
+---
+layout: default
+class: nfl-page
+---
+
 # Defensive Statistics Impact on NFL Power Ranking
 
 Tools Used - Excel \| PowerBI <br />
