@@ -13,9 +13,9 @@ Data Visualization | Regression Analysis | Data Modeling | Forecasting | Pivot T
 
 # Projects
 ### [Defensive Statistics Impact on NFL Power Ranking - November 2023](pages/pages_NFL.md)
-Tools Used - Excel, Power BI
+Tools Used - Excel | Power BI
 
-Determining the most impactful defesensive statistics when it comes to determining an NFL team's overall Power Ranking.
+Identifying the most impactful defesensive statistics when it comes to determining an NFL team's overall Power Ranking.
 
 ### Purde Data4Good Case Competition
 
