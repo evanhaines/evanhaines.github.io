@@ -1,6 +1,6 @@
 # Defensive Statistics Impact on NFL Power Ranking
 
-Tools Used - Excel | PowerBI
+Tools Used - Excel | PowerBI <br />
 Methodoligies Used - Regression Analysis | Data Visualization | Data Collinearity 
 
 ##### Problem Statement - Which Defensive Statistics are the most impactful when it comes to determining a team's overall power ranking?
