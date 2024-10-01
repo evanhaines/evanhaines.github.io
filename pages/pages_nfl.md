@@ -9,7 +9,7 @@ My team and I utilized Excel to restructure and clean over 600 pieces of defensi
 
 We then performed Liner Regression and Data Collinearity within Excel to identify significant independent variables. We extracted 10 unique variables and used p-values with an alpha value of 0.05 to find the most impactful variables with a 95% confidence interval. Through our analysis, we found the following variables to be the most impactful - Fumbles forced per game, interceptions forced per game, and rushing yards allowed per game. With our final data, we crafted various graphs and charts to visualize our findings and presented our work and solution to our TA.
 
-I am pleased to say that we received an A grade for our project! Months after our grade was received, I added to the project by creating a PowerBI dashboard to better visualize our findings. Links to the data set and dashboard are listed below.
+I am pleased to say that we received an A on our project! Months after our grade was received, I added to the project by creating a PowerBI dashboard to better visualize our findings. Links to the data set and dashboard are listed below.
 
 
 [Excel Data Regression & Collinearity](            [PowerBI Dashboard](
