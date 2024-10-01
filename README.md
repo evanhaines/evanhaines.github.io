@@ -12,7 +12,7 @@ Data Visualization | Regression Analysis | Data Modeling | Forecasting | Pivot T
 
 
 # Projects
-### Defensive Statistics Impact on NFL Power Ranking - November 2023
+### [Defensive Statistics Impact on NFL Power Ranking - November 2023](/pages/Pages_NFL)
 Tools Used - Excel, Power BI
 
 Problem Statement - Which Defensive Statistics are the most impactful when it comes to determining a team's overall power ranking?
