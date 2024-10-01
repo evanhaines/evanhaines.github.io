@@ -16,4 +16,6 @@ description: >
 logo: /images/headshot
 
 theme: jekyll-theme-minimal
-css: -/assets/css
+css:
+  - /assets/custom.css
+
