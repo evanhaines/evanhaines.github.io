@@ -21,10 +21,6 @@ Identifying the most impactful defesensive statistics when it comes to determini
 
 Coming Soon!
 
-### Texas A&M Humana-Mays Analytics Case Compeition
-
-Coming Soon!
-
 ### BAIS 6050 Data Management Final Project
 
 Coming Soon!
