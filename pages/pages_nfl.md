@@ -12,4 +12,7 @@ We then performed Liner Regression and Data Collinearity within Excel to identif
 I am pleased to say that we received an A on our project! Months after our grade was received, I added to the project by creating a PowerBI dashboard to better visualize our findings. Links to the data set and dashboard are listed below.
 
 
-[Excel Data, Regression, & Collinearity](https://1drv.ms/x/c/abd0fef50200edb3/EbPtAAL1_tAggKtJAQAAAAABOEiXOVdzGDLTlNsJ5mrlUA?e=XxoQ6T)     [PowerBI Dashboard(file:///C:/Users/evhai/OneDrive/Documents/NFL%20Analytics%20Dashboard.pdf)
+[Excel Data, Regression, & Collinearity](https://1drv.ms/x/c/abd0fef50200edb3/EbPtAAL1_tAggKtJAQAAAAABOEiXOVdzGDLTlNsJ5mrlUA?e=XxoQ6T)    
+
+PowerBI Dashboard
+![PowerBI Dashboard](file:///C:/Users/evhai/OneDrive/Documents/NFL%20Analytics%20Dashboard.pdf)
