@@ -12,12 +12,12 @@ Data Visualization | Regression Analysis | Data Modeling | Forecasting | Pivot T
 
 
 # Projects
-### [Defensive Statistics Impact on NFL Power Ranking - November 2023](/pages/pages_nfl)
+### [Defensive Statistics Impact on NFL Power Ranking - November 2023](/pages/pages_nfl.md)
 Tools Used - Excel | Power BI
 
 Identifying the most impactful defesensive statistics when it comes to determining an NFL team's overall Power Ranking.
 
-### [Purde Data4Good Case Competition - October 2024](/pages/pages_Data4Good)
+### [Purde Data4Good Case Competition - October 2024](/pages/pages_Data4Good.md)
 Tools Used - Excel | Python | PredictionGuard (ML tool)
 
 Categorizing T.A.P.S members into stages of grief based on survey responses.
