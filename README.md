@@ -7,7 +7,7 @@ Feel free to reach out to me if you have any comments, questions, or tips regard
 
 
 ## Technical Skills
-Python | Power BI | Excel | Oracle SQL <br /><br />
+Python | Power BI | Excel | Oracle SQL | Azure <br /><br />
 Data Visualization | Regression Analysis | Data Modeling | Forecasting | Pivot Tables
 
 
