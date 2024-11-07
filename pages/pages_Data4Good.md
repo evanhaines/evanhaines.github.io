@@ -9,4 +9,4 @@ My team and I were presented with 2950 rows of data in Excel, each represeting a
 
 [Excel Testing Data](https://1drv.ms/x/c/abd0fef50200edb3/EbxUPrxiP4pGnrX00qy3rWsBzFkzx2ptcg4ISzN96l7NhQ?e=jZe3Xg)<br />
 [Excel Submission Data](https://1drv.ms/x/c/abd0fef50200edb3/Ec86YaGwKLlMhxXanUWiCckBOaaV285KEY-0HQ3cWdVweQ?e=10sq4n)<br />
-[Python Script]()
+[Python Script](/pages/pages_Data4Good_Case_Comp.ipynb)
