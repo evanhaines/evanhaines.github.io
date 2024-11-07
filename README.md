@@ -23,5 +23,6 @@ Tools Used - Excel | Python | PredictionGuard (ML tool)
 Categorizing T.A.P.S members into stages of grief based on survey responses.
 
 ### BAIS 6050 Data Management Final Project
+Tools Used - Excel | SQL | Oracle
 
 Coming Soon!
