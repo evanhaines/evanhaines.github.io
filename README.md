@@ -17,9 +17,10 @@ Tools Used - Excel | Power BI
 
 Identifying the most impactful defesensive statistics when it comes to determining an NFL team's overall Power Ranking.
 
-### Purde Data4Good Case Competition
+### [Purde Data4Good Case Competition](/pages/pages_Data4Good)
+Tools Used - Excel | Python | PredictionGuard (ML tool)
 
-Coming Soon!
+Categorizing T.A.P.S members into stages of grief based on survey responses.
 
 ### BAIS 6050 Data Management Final Project
 
