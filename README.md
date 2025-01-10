@@ -22,7 +22,7 @@ Tools Used - Excel | Python | PredictionGuard (ML tool)
 
 Categorizing T.A.P.S members into stages of grief based on survey responses.
 
-### [Student Sleep Patterns Analysis - December 2024](/pages/_sleep.md)
+### [Student Sleep Patterns Analysis - December 2024](/pages/pages_sleep.md)
 Tools Used - SQL | Oracle | Excel
 
 Analyzing college student sleep patterns & identfying most impactful factors on sleep quality and duration.
