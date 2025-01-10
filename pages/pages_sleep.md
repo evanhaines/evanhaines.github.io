@@ -1,1 +1,14 @@
-Testing
+# Student Sleep Patterns Analysis
+
+Tools Used - SQL \| Oracle \| Excel <br />
+Methodologies Used - Data Analysis \| Data Visualization \| SQL Querying  
+
+For our final project in our Data Management course, my team and I decided to analyze college student sleep patterns, habits, and factors that affect sleep. As busy college students, we thought it would be interesting to research and analyze something that impacts each of us every day. We gathered our original data set from Kaggle as an Excel sheet with responses from a student survey of 500 college students. Each student answered numerous questions ranging from basic demographic information to specific questions about their sleep and different activities they do throughout their day that could affect sleep. After some basic data cleaning and formatting, our Excel file was ready to be uploaded into Oracle Apex for further data analysis. 
+
+After creating 4 data tables (Student, Sleep, SleepTime, ExternalFactors) unique to the type of question asked on the survey, we were ready to run SQL queries to draw insights from the data. Within Oracle, we created numerous queries to answer our various questions, with our main questions being what the most important external factors that affect sleep are and whether there was a unique combination of these factors that leads to the best possible sleep quality and duration. Our queries allowed us to pull various amounts of information, for which we created numerous visualizations to present our findings later. Our most prominent insight was the discovery that students who drank less than two caffeinated beverages daily, had less than four hours of screen time per day, and between 60 - 90 minutes of exercise daily had the highest reported sleep quality.
+
+Finally, my team and I presented our findings and methodologies to our class. I am happy to report that we received an A on the project and ended the class with an A. While our project was a little elementary in some aspects, it was a great learning experience as my first project using SQL and with no restrictions or directions on what techniques to use, data to find, and questions to answer. We faced several limitations, including the amount of data we had and the lack of specificity in certain questions, like when the external factors took place in the day. However, this project was a great success overall and a great foundation for more advanced projects in the future. I have put our webpage, dataset, and PowerPoint presentation below.
+
+[Oracle Apex Webpage]()<br />
+[Excel Dataset](https://iowa-my.sharepoint.com/:x:/g/personal/hlbergren_uiowa_edu/EYhTnNCcV-FBtp8Yae-H7VkB88hrRwr0L_vYOkN-_FFRWg?e=8IOCvv)<br />
+[Powerpoint Presentation](https://iowa-my.sharepoint.com/:p:/g/personal/paymay_uiowa_edu/Eexo9La4vrxJiv6n7qACyB8Bq0Z_zD2wh6gVpYveB2q60Q?e=Fz4hQV)
