@@ -28,6 +28,6 @@ Tools Used - SQL | Oracle | Excel
 Analyzing college student sleep patterns & identfying most impactful factors on sleep quality and duration.
 
 ### [Travel Schedules Impact on NBA Player Performance - May 2025](/pages/pages_nba.md)
-Tools Used - Python (pandas, scikit-learn, matplotlib)
+Tools Used - Python
 
 Analyzing how travel & and game schedules influence player performance across various metrics.
