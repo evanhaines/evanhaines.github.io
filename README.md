@@ -26,3 +26,8 @@ Categorizing T.A.P.S members into stages of grief based on survey responses.
 Tools Used - SQL | Oracle | Excel
 
 Analyzing college student sleep patterns & identfying most impactful factors on sleep quality and duration.
+
+### [Travel Schedules Impact on NBA Player Performance - May 2025](/pages/pages_nba.md)
+Tools Used - Python (pandas, scikit-learn, matplotlib)
+
+Analyzing how travel & and game schedules influence player performance across various metrics.
