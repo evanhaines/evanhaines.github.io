@@ -1,6 +1,6 @@
 # Travel Schedules Impact on NBA Player Performance
 
-Tools Used - Python
+Tools Used - Python <br />
 Methodologies Used - Linear Regression Analysis \| Data Visualization \| XGBoost \| Random Forest \| ANOVA \| Data Cleaning \| Machine Learning
 
 #### Project Purpose - Can we use machine learning techniques to accurately predict changes in indiviudal player performance based on aspects of their travel schedule?
