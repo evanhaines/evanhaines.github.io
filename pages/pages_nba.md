@@ -13,3 +13,4 @@ I then created numerous statistical analysis models and machine learning models.
 
 NOTE - I will fully finalize this page following the completion of my project. 
 
+[Python Script](https://github.com/evanhaines/evanhaines.github.io/blob/4d932f4af04dcf075409d25e578bc6a88e04627e/pages/Data4Good%20Case%20Comp.ipynb)
