@@ -13,4 +13,4 @@ I then created numerous statistical analysis models and machine learning models.
 
 NOTE - I will fully finalize this page following the completion of my project. 
 
-[Python Script]([BAIS_3250_Final.ipynb](https://github.com/evanhaines/evanhaines.github.io/blob/main/BAIS_3250_Final.ipynb))
+[Python Script](https://github.com/evanhaines/evanhaines.github.io/blob/main/BAIS_3250_Final.ipynb)
