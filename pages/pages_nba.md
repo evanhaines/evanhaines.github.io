@@ -1,16 +1,15 @@
-# 
+# Travel Schedules Impact on NBA Player Performance
 
 Tools Used - Python
-Methodologies Used - Regression Analysis \| Data Visualization 
+Methodologies Used - Linear Regression Analysis \| Data Visualization \| XGBoost \| Random Forest \| ANOVA \| Data Cleaning \| Machine Learning
 
-#### Problem Statement - 
+#### Project Purpose - Can we use machine learning techniques to accurately predict changes in indiviudal player performance based on aspects of their travel schedule?
 
-This was my final project for my BAIS 3250 Data Wrangling Class. I utilized selenium to webscrape 
+This was my final project for my BAIS 3250 Data Wrangling Class. I utilized selenium to webscrape each NBA team's travel schedule for 2021 - 2024 seasons. I improted each player's game logs for each game played throughout these seasons through the NBA_stats API. I performed extensive data cleaning by doing everything from column name mapping, columns addition, horizontal integration, missing value handling, etc. 
 
-I utilized Excel to restructure and clean over 600 pieces of defensive statistical data gathered from each of the 32 NFL teams throughout the 2021 and 2022 NFL seasons. We also noted the end-of-regular-season power rankings for each team and set this to be the dependent variable within our analysis.
-
-We then performed Liner Regression and Data Collinearity within Excel to identify significant independent variables. We extracted 10 unique variables and used p-values with an alpha value of 0.05 to find the most impactful variables with a 95% confidence interval. Through our analysis, we found the following variables to be the most impactful - Fumbles forced per game, interceptions forced per game, and rushing yards allowed per game. With our final data, we crafted various graphs and charts to visualize our findings and presented our work and solution to our TA.
+I then created numerous statistical analysis models and machine learning models. Specifically I ran ANOVA hypothesis tests, llinear regression, XGboost regression, random forest regression, etc. I used various data visualization techniqiues to create different charts and graphs to present my findings.
 
 
 
+NOTE - will fully finalize this page following the completetion of my project. 
 
