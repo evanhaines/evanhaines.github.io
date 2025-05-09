@@ -9,7 +9,7 @@ This was my final project for my BAIS 3250 Data Wrangling Class. I utilized Sele
 
 I used traditional Data Preprocessing techniques by scaling the numerical data, one hot encoding categorical variables, and using train/validation/test splits for our machine learning models.
 
-I then created numerous statistical analysis models and machine learning models. Specifically, I ran ANOVA hypothesis tests and created Logistic, Decision Tree, and XGboost models. I used various testing metrics like ROC AUC, precision, recall, R^2, etc. to evaluate the performance of these models. Lastly, I used various data visualization techniques to create different charts and graphs, and wrote a professional final report to assess my findings. 
+I then created numerous statistical analysis models and machine learning models. Specifically, I ran ANOVA hypothesis tests and created Logistic, Decision Tree, and XGBoost models. I used various testing metrics like ROC AUC, precision, recall, R^2, etc. to evaluate the performance of these models. Lastly, I used various data visualization techniques to create different charts and graphs, and wrote a professional final report to assess my findings. 
 
 
 [Jupyter Notebook 1]()
