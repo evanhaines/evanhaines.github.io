@@ -12,6 +12,6 @@ I used traditional Data Preprocessing techniques by scaling the numerical data, 
 I then created numerous statistical analysis models and machine learning models. Specifically, I ran ANOVA hypothesis tests and created Logistic, Decision Tree, and XGBoost models. I used various testing metrics like ROC AUC, precision, recall, R^2, etc. to evaluate the performance of these models. Lastly, I used various data visualization techniques to create different charts and graphs, and wrote a professional final report to assess my findings. 
 
 
-[Jupyter Notebook 1]() <br />
-[Jupyter Notebook 2]() <br />
+[Data Wrangling]() <br />
+[Final Analysis](https://github.com/evanhaines/evanhaines.github.io/blob/409fde426caaf316116b13d0c978cad81535e21c/pages/BAIS_3250_%20Final_Analysis.ipynb) <br />
 [Final Report Doc](https://github.com/evanhaines/evanhaines.github.io/blob/749b76cefcda7409c60ceeb201dcd9b7abdc8e8b/pages/BAIS%203250%20Final%20Report.docx)
