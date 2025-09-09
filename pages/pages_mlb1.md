@@ -9,4 +9,4 @@ This was my final project for my BAIS 6060 Data Programming with R course. My te
 
 We then used traditional Data Preprocessing techniques by scaling the numerical data, one hot encoding categorical variables, and using train/validation/test splits our machine learning models. After creating numerous data visualizations and using testing metics like ROC AUC, precision, recall, etc. to evaluate the performance of these models, we composed a final report and presentation. After a successful presentation to the class, my group and I received both an A on the project and in the class. Unfortunately, I am unable to include our code as it was done on our university's private server, but our final presentation is included below
 
-[Final PPT](pages/R Presentation.pptx)
+[Final PPT](https://github.com/evanhaines/evanhaines.github.io/blob/5179180e50dd39135cf5a42fc848a5febabeff45/pages/R%20Presentation.pptx)
