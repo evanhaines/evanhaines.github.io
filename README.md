@@ -7,8 +7,9 @@ Feel free to reach out to me if you have any comments, questions, or tips regard
 
 
 ## Technical Skills
-Python (pandas, numpy, selenium, scikit-learn, matplotlib) | Power BI | Excel | Oracle SQL | Azure | Git & GitHub  <br /><br />
-Data Visualization | Machine Learning | Regression Analysis | Data Modeling | Forecasting | Pivot Tables
+### Programming & Analysis: Python(Pandas, Numpy, Scikit-Learn, Selenium, XGBoost), R, SQL (SSMS, Oracle), Excel (Power Query, Pivot Tables, Advanced Functions)
+### Data Visisualization & BI: Power BI, Tableau, Matplotlib, Seaborn
+### Methodologies: Machine Learning (Classification, Regression, Feature Engineering), Data Wrangling, Predictive Modeling, Forecasting, Statistical Analysis
 
 
 # Projects
