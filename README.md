@@ -33,7 +33,7 @@ Tools Used - Python
 
 Analyzing how travel fatigue & and game schedules influence player performance across various metrics.
 
-### [MLB Umpire Pitch Call Analysis](/pages/pages_mlb1.md)
+### [MLB Umpire Pitch Call Analysis - May 2025](/pages/pages_mlb1.md)
 Tools Used - R
 
 Analyzing how pitcher & pitch-related variables influence umpire strike calling accuracy.
