@@ -29,6 +29,16 @@ Tools Used - SQL | Oracle | Excel
 Analyzing college student sleep patterns & identfying most impactful factors on sleep quality and duration.
 
 ### [Travel Schedules Impact on NBA Player Performance - May 2025](/pages/pages_nba.md)
+Tools Used - Python 
+
+Analyzing how travel fatigue & and game schedules influence player performance across various metrics.
+
+### [MLB Umpire Pitch Call Analysis](/pages/pages_mlb1.md)
+Tools Used - R
+
+Analyzing how pitcher & pitch-related variables influence umpire strike calling accuracy.
+
+### [MLB Pitcher Injury Prediction & Analysis - May 2025](/pages/pages_mlb2.md)
 Tools Used - Python
 
-Analyzing how travel & and game schedules influence player performance across various metrics.
+Predicting MLB pitcher injuries using player performance statistics.
