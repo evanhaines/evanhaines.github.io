@@ -9,7 +9,7 @@ This was my partner and I's final project for my BAIS 6060 Data Science course. 
 
 We then created 3 machine learning models (Logistic Regression, Decision Tree, and XGBoost) for our classification prediction. After using various testing metrics like ROC AUC, precision, recall, etc. we determined that the XGBoost model performed the best and was able to predict pitcher injuries for both the current and future seasons with reasonable accuracy. Lastly, we used various data visualization techniques to create different charts and graphs, for our final summary and presentation. Overall, our final project received an A!
 
-[Final Code](https://github.com/evanhaines/evanhaines.github.io/blob/604c6ff188370bc49bfd96dd86de7a3fe19b0a9e/pages/BAIS_6070_Final.ipynb)
-[Final Report](https://github.com/evanhaines/evanhaines.github.io/blob/0ef9dbed3e7b8499672b69bf49b0c26a3e43ce8d/pages/BAIS%206070%20Final%20Project%20Report.docx)
+[Final Code](https://github.com/evanhaines/evanhaines.github.io/blob/604c6ff188370bc49bfd96dd86de7a3fe19b0a9e/pages/BAIS_6070_Final.ipynb) <br>
+[Final Report](https://github.com/evanhaines/evanhaines.github.io/blob/0ef9dbed3e7b8499672b69bf49b0c26a3e43ce8d/pages/BAIS%206070%20Final%20Project%20Report.docx) <br>
 [Final PPT](https://github.com/evanhaines/evanhaines.github.io/blob/379f01150d4cfbfee847b7b0c7aa57f75219df5a/pages/Data%20Science%20Presentation.pptx)
 
