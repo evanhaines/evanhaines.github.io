@@ -11,5 +11,5 @@ We then created 3 machine learning models (Logistic Regression, Decision Tree, a
 
 [Final Code](https://github.com/evanhaines/evanhaines.github.io/blob/604c6ff188370bc49bfd96dd86de7a3fe19b0a9e/pages/BAIS_6070_Final.ipynb)
 [Final Report](https://github.com/evanhaines/evanhaines.github.io/blob/0ef9dbed3e7b8499672b69bf49b0c26a3e43ce8d/pages/BAIS%206070%20Final%20Project%20Report.docx)
-[Final PPT](
+[Final PPT](https://github.com/evanhaines/evanhaines.github.io/blob/379f01150d4cfbfee847b7b0c7aa57f75219df5a/pages/Data%20Science%20Presentation.pptx)
 
